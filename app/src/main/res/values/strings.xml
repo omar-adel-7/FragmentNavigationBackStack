@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragment-Navigation-Back-Stack</string>
+
+    <string name="screen_type">phone</string>
+    <string name="tab1">tab 1</string>
+    <string name="tab_click">tab click</string>
+    <string name="tab2">tab 2</string>
+    <string name="tab3">tab 3</string>
+    <string name="tab4">tab 4</string>
+
+
+    <string-array name="screen_types">
+        <item name="1">phone</item>
+        <item name="2">tablet_7</item>
+        <item name="3">tablet_10</item>
+    </string-array>
+
+</resources>
