@@ -1,7 +1,7 @@
 package com.example.fragment_stack.ui.Main.presenter.pre_activities;
 
 import android.content.Context;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 import com.example.fragment_stack.ui.Main.MainActivity;
 import com.example.fragment_stack.ui.Main.fragments.Fragment_Repeated;
